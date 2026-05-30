@@ -1,9 +1,8 @@
 {
-  "mcpServers": {
+  "servers": {
     "github": {
       "type": "http",
-      "url": "https://api.githubcopilot.com/mcp/read-only",
-      "description": "GitHub MCP integration (read-only mode)"
+      "url": "https://api.githubcopilot.com/mcp/read-only"
     }
   }
 }
